@@ -1,0 +1,6 @@
+{
+  "name": "STYLE AI",
+  "description": "Personal AI Fashion Stylist & Digital Wardrobe Advisor for outfit discovery, photo analysis, color coordination, and wardrobe planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
